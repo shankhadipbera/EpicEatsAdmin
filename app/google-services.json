@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "4044349397",
+    "project_id": "epiceats-eb2bc",
+    "storage_bucket": "epiceats-eb2bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4044349397:android:9f1dd0b50ef3a16ddfe75c",
+        "android_client_info": {
+          "package_name": "com.shankha.epiceatsadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM06RqsHynZRJTprySoRxRorXWMaUUMO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
